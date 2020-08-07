@@ -19,7 +19,8 @@ public class ProyectoBD2 {
    
     int x=2;
     String hola="";
-    System.out.println();
+    
+    System.out.println(hola);
     
     }
     
